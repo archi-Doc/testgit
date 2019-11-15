@@ -21,5 +21,9 @@ namespace testgit
         {
             Console.WriteLine("test");
         }
+        
+        static void test2()
+        {
+        }
     }
 }
