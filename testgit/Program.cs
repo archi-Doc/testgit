@@ -11,6 +11,7 @@ namespace testgit
 
             Console.WriteLine("add on web2");
             Console.WriteLine("add on local");
+            Console.WriteLine("add on local2");
         }
     }
 }
