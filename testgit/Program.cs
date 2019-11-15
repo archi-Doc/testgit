@@ -13,5 +13,9 @@ namespace testgit
             Console.WriteLine("add on local");
             Console.WriteLine("add on local2");
         }
+        
+        static void test2()
+        {
+        }
     }
 }
