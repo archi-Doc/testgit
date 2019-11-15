@@ -8,7 +8,7 @@ namespace testgit
         {
             Console.WriteLine("Hello World2");
             Console.WriteLine("modified by note-7");
-            ac
+            a
         }
     }
 }
