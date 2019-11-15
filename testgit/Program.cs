@@ -10,8 +10,7 @@ namespace testgit
             Console.WriteLine("modified by note-7");
 
             Console.Write("add on web");
-            Console.WriteLine("add by note-7");
-            Console.WriteLine("");
+
         }
     }
 }
