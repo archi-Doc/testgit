@@ -9,9 +9,8 @@ namespace testgit
             Console.WriteLine("Hello World2");
             Console.WriteLine("modified by note-7");
 
-            Console.Write("add on web");
+            Console.Write("add on web2");
             Console.Write("add on local");
-
         }
     }
 }
