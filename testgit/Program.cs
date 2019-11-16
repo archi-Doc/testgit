@@ -9,11 +9,9 @@ namespace testgit
             Console.WriteLine("Hello World2");
             Console.WriteLine("modified by note-7");
 
-            Console.WriteLine("squash");
-            Console.WriteLine("squash2");
-            Console.WriteLine("squash3");
-            Console.WriteLine("squash5");
-
+            Console.WriteLine("1");
+            Console.WriteLine("2");
+            Console.WriteLine("3");
         }
 
         static void test()
