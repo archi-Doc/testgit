@@ -15,6 +15,7 @@ namespace testgit
 
             Console.WriteLine("add on desk");
 
+            Console.WriteLine("test branch");
         }
 
         static void test()
