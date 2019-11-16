@@ -12,6 +12,7 @@ namespace testgit
             Console.WriteLine("squash");
             Console.WriteLine("squash2");
             Console.WriteLine("squash3");
+            Console.WriteLine("squash4");
         }
 
         static void test()
