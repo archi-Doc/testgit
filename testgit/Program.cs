@@ -9,8 +9,7 @@ namespace testgit
             Console.WriteLine("Hello World2");
             Console.WriteLine("modified by note-7");
 
-            Console.WriteLine("rebase test");
-            Console.WriteLine("rebase test2");
+            Console.WriteLine("squash");
         }
 
         static void test()
