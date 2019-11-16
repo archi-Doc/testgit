@@ -10,6 +10,7 @@ namespace testgit
             Console.WriteLine("modified by note-7");
 
             Console.WriteLine("squash");
+            Console.WriteLine("squash2");
         }
 
         static void test()
