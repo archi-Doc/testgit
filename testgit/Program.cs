@@ -14,7 +14,7 @@ namespace testgit
             Console.WriteLine("4");
 
             Console.WriteLine("a");
-
+            Console.WriteLine("b");
         }
 
         static void test()
