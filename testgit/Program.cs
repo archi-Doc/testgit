@@ -9,14 +9,7 @@ namespace testgit
             Console.WriteLine("Hello World2");
             Console.WriteLine("modified by note-7");
 
-            Console.WriteLine("add on web2");
-            Console.WriteLine("add on local");
-            Console.WriteLine("add on local2");
-
-            Console.WriteLine("add on desk");
-
-            Console.WriteLine("test branch");
-            Console.WriteLine("test branch2");
+            Console.WriteLine("rebase test");
         }
 
         static void test()
