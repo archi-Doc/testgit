@@ -10,6 +10,7 @@ namespace testgit
             Console.WriteLine("modified by note-7");
 
             Console.WriteLine("rebase test");
+            Console.WriteLine("rebase test2");
         }
 
         static void test()
