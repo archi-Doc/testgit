@@ -9,15 +9,9 @@ namespace testgit
             Console.WriteLine("Hello World2");
             Console.WriteLine("modified by note-7");
 
-            Console.WriteLine("2");
-            Console.WriteLine("3");
-            Console.WriteLine("4");
+            test();
+            test2();
 
-            Console.WriteLine("a");
-            Console.WriteLine("b");
-
-            Console.WriteLine("c");
-            Console.WriteLine("d");
         }
 
         static void test()
@@ -27,6 +21,14 @@ namespace testgit
         
         static void test2()
         {
+            Console.WriteLine("test2");
+
+        }
+
+        static void test3()
+        {
+            Console.WriteLine("test3");
+
         }
     }
 }
