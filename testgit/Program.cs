@@ -10,6 +10,7 @@ namespace testgit
             Console.WriteLine("modified by note-7");
 
             Console.WriteLine("1");
+            Console.WriteLine("2");
 
             Console.WriteLine("master+1");
             Console.WriteLine("master+2");
