@@ -15,14 +15,19 @@ namespace testgit
             Console.WriteLine("master+1");
             Console.WriteLine("master+2");
 
+            test();
+            test2();
         }
 
         static void test()
         {
+            Console.WriteLine("test");
         }
         
         static void test2()
         {
+            Console.WriteLine("test2");
+
         }
     }
 }
