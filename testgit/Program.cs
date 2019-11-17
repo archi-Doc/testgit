@@ -15,6 +15,7 @@ namespace testgit
             Console.WriteLine("master+2");
 
             test();
+            test2();
         }
 
         static void test()
@@ -24,6 +25,8 @@ namespace testgit
         
         static void test2()
         {
+            Console.WriteLine("test2");
+
         }
     }
 }
