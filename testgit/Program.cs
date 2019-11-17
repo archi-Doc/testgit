@@ -10,6 +10,8 @@ namespace testgit
             Console.WriteLine("modified by note-7");
 
             test();
+            test2();
+
         }
 
         static void test()
@@ -19,6 +21,8 @@ namespace testgit
         
         static void test2()
         {
+            Console.WriteLine("test2");
+
         }
     }
 }
